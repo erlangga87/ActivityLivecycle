@@ -2,6 +2,7 @@
 
 ScreenShot:
 <br><img src="https://github.com/erlangga87/ActivityLivecycle/blob/master/activityLivecycle1.PNG"/>
+<br> Setelah Menekan Home Maka Music Akan Pause dan jika menekan aplikasi music kemudian akan mulai lagi 
 <br><img src="https://github.com/erlangga87/ActivityLivecycle/blob/master/activityLivecycle2.PNG"/>
 
 
